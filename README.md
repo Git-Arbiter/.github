@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="landing-page/arbiterLogo.png" alt="Arbiter Logo" width="120">
+<img width="200" height="200" alt="arbiterLogo" src="https://github.com/user-attachments/assets/ba0b1220-6d37-4120-9f26-4d4c75dd383a" />
 
   # Arbiter
 
