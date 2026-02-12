@@ -11,7 +11,7 @@
   [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/placeholder)
   [![License](https://img.shields.io/badge/License-Commercial-orange?style=flat-square)](https://git-arbiter.com/terms.html)
 
-  [Website](https://git-arbiter.com) • [Documentation](https://git-arbiter.com/docs.html) • [Discord](https://discord.gg/placeholder) • [Get License](https://git-arbiter.com/#pricing)
+  [Website](https://git-arbiter.com) • [Documentation](https://git-arbiter.com/docs.html) • [Discord](https://discord.gg/Jt78QpnV) • [Get License](https://git-arbiter.com/#pricing)
 
 </div>
 
@@ -376,7 +376,7 @@ Arbiter takes security seriously:
 
 ### Getting Help
 
-- 💬 **Discord Community**: [Join our Discord](https://discord.gg/placeholder)
+- 💬 **Discord Community**: [Join our Discord](https://discord.gg/Jt78QpnV)
 - 📧 **Email Support**: support@git-arbiter.com
 - 📖 **Documentation**: [git-arbiter.com/docs.html](https://git-arbiter.com/docs.html)
 - 🌐 **Website**: [git-arbiter.com](https://git-arbiter.com)
@@ -451,7 +451,7 @@ Built with:
 
   **Ready to automate your GitHub issues?**
 
-  [Get Started](https://git-arbiter.com) • [Documentation](https://git-arbiter.com/docs.html) • [Join Discord](https://discord.gg/placeholder)
+  [Get Started](https://git-arbiter.com) • [Documentation](https://git-arbiter.com/docs.html) • [Join Discord](https://discord.gg/Jt78QpnV)
 
   Made with ❤️ by [Mason](https://git-arbiter.com/about.html)
 
