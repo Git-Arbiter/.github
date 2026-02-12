@@ -8,7 +8,7 @@
   *Let AI solve your issues while you sleep. Wake up to pull requests ready for review.*
 
   [![Website](https://img.shields.io/badge/Website-git--arbiter.com-blue?style=flat-square)](https://git-arbiter.com)
-  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/placeholder)
+  [![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2?style=flat-square&logo=discord&logoColor=white)]([https://discord.gg/placeholder](https://discord.gg/Jt78QpnV))
   [![License](https://img.shields.io/badge/License-Commercial-orange?style=flat-square)](https://git-arbiter.com/terms.html)
 
   [Website](https://git-arbiter.com) • [Documentation](https://git-arbiter.com/docs.html) • [Discord](https://discord.gg/Jt78QpnV) • [Get License](https://git-arbiter.com/#pricing)
